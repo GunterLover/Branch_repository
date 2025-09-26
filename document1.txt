@@ -1,5 +1,5 @@
 def partition(l, r, nums):
-    # fix something
+    # renew_fix_something
     # fix something_two
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
